@@ -5,10 +5,19 @@ Das Ziel dieses Projekts besteht darin, die Künstlichen Neuronalen Netze SuperV
 
 #### Ergebnisse
 <div style="display:flex;" >
-<img  src="raw/solar1.jpg" width="19%" >
-<img style="margin-left:10px;" src="raw/solar2.jpg" width="19%" >
-<img style="margin-left:10px;" src="raw/solar2.jpg" width="19%" >
-<img style="margin-left:10px;" src="raw/solar3.jpg" width="19%" >
+<img  src="raw/solar1.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/solar2.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/solar2.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/solar3.jpg" width="24%" >
+</div>
+
+<br><br>
+
+<div style="display:flex;" >
+<img  src="raw/ampel1.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/ampel2.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/ampel3.jpg" width="24%" >
+<img style="margin-left:10px;" src="raw/ampel4.jpg" width="24%" >
 </div>
 
 #### Code
