@@ -23,9 +23,11 @@ Das Ziel dieses Projekts besteht darin, die Künstlichen Neuronalen Netze SuperV
 
 #### Ergebnisse
 <div style="display:flex;" >
-<img  src="raw/ergebnis1.PNG" width="40%" >
-<img style="margin-left:10px;" src="raw/ergebnis2.PNG" width="40%" >
+<img  src="raw/ergebnis1.PNG" width="49%" >
+<img style="margin-left:10px;" src="raw/ergebnis2.PNG" width="49%" >
 </div>
 
 #### Code
+
+#### Trainingsdaten
 
