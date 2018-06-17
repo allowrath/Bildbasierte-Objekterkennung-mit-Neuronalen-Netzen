@@ -27,10 +27,11 @@ Das Ziel dieses Projekts besteht darin, die Künstlichen Neuronalen Netze SuperV
 <img style="margin-left:10px;" src="raw/ergebnis2.PNG" width="49%" >
 </div>
 
-#### trainierten Künstlichen Neuronalen Netze
-
 #### Trainingsdaten
 Für die Objektdetektion stehen unter "Trainingsdaten/Objektdetektion - Ampel" 1002 gelabelte Bilder zur Verfügung. Für die Solaranlagen sind unter "Trainingsdaten/Objektdetektion - Solaranlage" 607 Trainingsdaten verfügbar.
 Die Labelling File liegen im Verzeichnis ___. Um diese zu nutzen und neue KNN mit Hilfe dieser Trainings zu trainieren müssen sie lokal in einem Verzeichnis gespeichert sowie der absolute Pfad in dem jeweiligen Labelling File angepasst werden.
 Zur Anpassung des Pfades kann Code/changePath.m verwendet werden.
+
+#### Künstlichen Neuronalen Netze
+
 
